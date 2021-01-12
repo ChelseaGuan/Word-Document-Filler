@@ -16,6 +16,7 @@ namespace WordDocTool
         // Starts filling empty cells process.
         private void submitButton_Click(object sender, EventArgs e)
         {
+            messageLabel.Text = "";
             progressBar.Visible = true;
             if (!backgroundWorker.IsBusy)
                 backgroundWorker.RunWorkerAsync();
