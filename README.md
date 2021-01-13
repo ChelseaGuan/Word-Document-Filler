@@ -1,5 +1,8 @@
 # Word-Document-Filler
 C# Windows form application that scans Word documents for empty table cells and fills them with “N/A”.
 
-![hippo](https://media.giphy.com/media/QLIDZLjn207fU3w3JR/giphy.gif)
-![](Demo part 2.gif)
+Demo Part 1: Uploads a Word file to fill, but cancelling the process  
+![hippo](https://media.giphy.com/media/XtIU9midCOuQQMTLu7/giphy.gif)  
+  
+Demo Part 2: Resubmits the same file and successfully fills empty cells with "N/A"  
+![hippo](https://media.giphy.com/media/QLIDZLjn207fU3w3JR/giphy.gif)  
