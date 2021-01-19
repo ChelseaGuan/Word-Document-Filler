@@ -1,10 +1,10 @@
 # Word-Document-Filler
 
 ## About the Project
-C# Windows form application that scans Word documents for empty table cells and fills them with “N/A”.
+Windows form application that scans Word documents for empty table cells and fills them with “N/A”. Utilized multithreading to implement a progress bar.
 
 ### Development
-This project was developed in Visual Studio 2019.
+This project was developed in Visual Studio 2019 using C#.
 
 ## Demonstration
 
